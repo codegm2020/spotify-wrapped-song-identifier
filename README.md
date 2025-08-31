@@ -19,9 +19,6 @@ System Architecture & Tech Stack
 
 The project leverages a modern, cloud-native architecture for the mobile app and a standard data science pipeline for the ML model.
 <img width="700" height="490" alt="Screenshot 2025-08-30 at 8 23 18 PM" src="https://github.com/user-attachments/assets/255c1536-e6a0-4fb7-a565-b408cd387658" />
-
 <img width="700" height="300" alt="Screenshot 2025-08-30 at 8 23 45 PM" src="https://github.com/user-attachments/assets/5e9fe333-b20c-4c55-a078-a1dbf394cb8f" />
-
 <img width="700" height="202" alt="Screenshot 2025-08-30 at 8 24 04 PM" src="https://github.com/user-attachments/assets/15b40c0f-1aeb-4b3b-afe1-c31f4757dc26" />
-
 <img width="700" height="348" alt="Screenshot 2025-08-30 at 8 24 16 PM" src="https://github.com/user-attachments/assets/533bcac2-ea8a-4815-a349-7e05f50e1ee6" />
